@@ -4,9 +4,9 @@ import { appStyles } from "../theme/appStyles";
 
 export default function PantallaPromedio() {
   const alumnos = [
-    { nombre: "Alex", edad: 19, calificacion: 10 },
-    { nombre: "Joel", edad: 20, calificacion: 8 },
-    { nombre: " David ", edad: 18, calificacion: 9 },
+    { nombre: "Viviana", edad: 19, calificacion: 10 },
+    { nombre: "Wendy", edad: 20, calificacion: 8 },
+    { nombre: " Gerson ", edad: 18, calificacion: 9 },
   ];
 
   const promedio =
